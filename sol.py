@@ -247,3 +247,7 @@ while True:
 
 
 wn.mainloop()
+
+
+# comments for ved
+
